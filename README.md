@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Muhammed Nasser
 
-.. image:: https://img.shields.io/discord/102860784329052160?color=DD&label=Discord&logo=DDD&logoColor=DDD&style=social   :alt: Discord
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mu-n?style=plastic"> 
+
+
 <!--
 **MU-N/MU-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
