@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Muhammed Nasser
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/mu-n?style=plastic"> 
 
+## 🛠 Skills
+C/C++, C#, Unity
 
 <!--
 **MU-N/MU-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
